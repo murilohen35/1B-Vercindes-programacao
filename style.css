@@ -1,2 +1,14 @@
 body{
-background-color: black;}
+background-color: rgb(228, 222, 222);
+}
+
+h1{
+ color:black;
+ text-align: center;    
+ font-size: 30px;
+}
+p{
+    color:black;
+    text-align: center;
+    font-size: 25px
+}
